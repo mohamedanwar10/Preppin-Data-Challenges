@@ -1,10 +1,13 @@
-# 2024 - Week 2: Unions, Aggregation, and Reshaping Data
+# 2024 - Week 2: Average Price Analysis
 
 ## Challenge Description
-This week's challenge involves unions, aggregation, and reshaping data. The input dataset is the output from Week 1.
+This week's challenge involves analyzing flight prices by quarter, Flow Card usage, and class. The goal is to calculate the median, minimum, and maximum prices, reshape the data, and correct column names.
+
+### Challenge Link
+[Preppin' Data Blog - 2024 Week 2](https://preppindata.blogspot.com/2024/01/2024-week-2-average-price-analysis.html)
 
 ### Requirements
-1. Input the two CSV files.
+1. Input the two CSV files (output from Week 1).
 2. Union the files together.
 3. Convert the `Date` field to a quarter number and name this field `Quarter`.
 4. Aggregate the data in the following ways:
