@@ -29,6 +29,7 @@ This week's challenge involves unions, aggregation, and reshaping data. The inpu
    - Premium
    - Business
    - First
+   - Aggregation
 
 ### Approach
 - Used Power Query to union the two CSV files.
